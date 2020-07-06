@@ -1,11 +1,6 @@
 package org.vaadin.mikael;
 
-import java.io.Serializable;
-
-import org.springframework.stereotype.Service;
-
-@Service
-public class GreetService implements Serializable {
+public class GreetService {
 
     public String greet(String name) {
         if (name == null || name.isEmpty()) {
@@ -14,5 +9,4 @@ public class GreetService implements Serializable {
             return "Hello " + name;
         }
     }
-
 }
