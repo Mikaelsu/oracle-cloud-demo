@@ -1,9 +1,9 @@
 {
   "compatibilityMode": false,
   "productionMode": false,
-  "npmFolder": "/Users/mikael/Downloads/my-starter-project 20",
-  "generatedFolder": "/Users/mikael/Downloads/my-starter-project 20/target/frontend",
-  "frontendFolder": "/Users/mikael/Downloads/my-starter-project 20/frontend",
+  "npmFolder": "/Users/mikael/Downloads/plain-java-test",
+  "generatedFolder": "/Users/mikael/Downloads/plain-java-test/target/frontend",
+  "frontendFolder": "/Users/mikael/Downloads/plain-java-test/frontend",
   "pnpm.enable": false,
   "require.home.node": false
 }
